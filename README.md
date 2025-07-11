@@ -1,4 +1,4 @@
-#🎓Student-Performance-Predictor
+##🎓Student-Performance-Predictor
 This project predicts student grades (A–F) using Machine Learning models like Random Forest, SVM, and Gradient Boosting.
 
 ## 📌 Features
